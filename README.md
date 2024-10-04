@@ -8,7 +8,7 @@ The Lufthansa provides the following core functionalities:
 
 - `Create a new file`: Specify the file name to create a new binary file.
 - `Delete an existing file`: Remove an existing binary file by specifying its name.
-- `Insert data`: Input details such as flight information, passenger records, and more, which are then stored in a binary file.
+- `Insert data`: Input details then stored in a binary file.
 - `Display data`: Read and show the contents of the binary file.
 - `Search and Modify`: Find records by ID and update them as necessary.
 
