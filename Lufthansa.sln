@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lufthansa", "Lufthansa.csproj", "{A6A39C24-E954-4256-BDCD-8B75017CF978}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6A39C24-E954-4256-BDCD-8B75017CF978}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6A39C24-E954-4256-BDCD-8B75017CF978}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6A39C24-E954-4256-BDCD-8B75017CF978}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6A39C24-E954-4256-BDCD-8B75017CF978}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3C7757C-7DA7-479C-8ACD-C38EECE180AB}
+	EndGlobalSection
+EndGlobal
